@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944869478615",
+    "project_id": "letschat-app23",
+    "storage_bucket": "letschat-app23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944869478615:android:2e1da791dd971631d96092",
+        "android_client_info": {
+          "package_name": "com.example.letschat_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBESQ9sv5uL8jwryPihVeyjgFFHigFfwAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
